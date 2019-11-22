@@ -1,0 +1,16 @@
+C:\Users\Степан\source\repos\UchPractics\UchPractics\bin\Debug\UchPractics.exe.config
+C:\Users\Степан\source\repos\UchPractics\UchPractics\bin\Debug\UchPractics.exe
+C:\Users\Степан\source\repos\UchPractics\UchPractics\bin\Debug\UchPractics.pdb
+C:\Users\Степан\source\repos\UchPractics\UchPractics\obj\Debug\UchPractics.csprojAssemblyReference.cache
+C:\Users\Степан\source\repos\UchPractics\UchPractics\obj\Debug\UchPractics.Autorization.resources
+C:\Users\Степан\source\repos\UchPractics\UchPractics\obj\Debug\UchPractics.Properties.Resources.resources
+C:\Users\Степан\source\repos\UchPractics\UchPractics\obj\Debug\UchPractics.Registration.resources
+C:\Users\Степан\source\repos\UchPractics\UchPractics\obj\Debug\UchPractics.csproj.GenerateResource.cache
+C:\Users\Степан\source\repos\UchPractics\UchPractics\obj\Debug\UchPractics.csproj.CoreCompileInputs.cache
+C:\Users\Степан\source\repos\UchPractics\UchPractics\obj\Debug\UchPractics.exe
+C:\Users\Степан\source\repos\UchPractics\UchPractics\obj\Debug\UchPractics.pdb
+C:\Users\Степан\source\repos\UchPractics\UchPractics\obj\Debug\UchPractics.ADJorn.resources
+C:\Users\Степан\source\repos\UchPractics\UchPractics\obj\Debug\UchPractics.Ad_form.resources
+C:\Users\Степан\source\repos\UchPractics\UchPractics\obj\Debug\UchPractics.ControlUS.resources
+C:\Users\Степан\source\repos\UchPractics\UchPractics\obj\Debug\UchPractics.St_form.resources
+C:\Users\Степан\source\repos\UchPractics\UchPractics\obj\Debug\UchPractics.Tc_form.resources
